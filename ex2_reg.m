@@ -1,11 +1,12 @@
-%========Part1: Regualrization======================
-%  This file contains code to run regularization with logistic regression
+%========Part1: Logistic regression======================
+%  This file contains code to run regularization with logistic regression to predict wether
+% microchip from a company passes quality assurance check.
 
 %% Initialization
 clear ; close all; clc
 
 %% Load Data
-%  The first two columns contains the X values and the third column
+%  The first two columns of ex2data.txt contains the X values and the third column
 %  contains the label (y).
 
 data = load('ex2data2.txt');
