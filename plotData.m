@@ -6,8 +6,8 @@ function plotData(X, y)
 % Create New Figure
 figure; hold on;
 
-% ====================== YOUR CODE HERE ======================
-% Instructions: Plot the positive and negative examples on a
+% ============================================================
+% Plot the positive and negative examples on a
 %               2D plot, using the option 'k+' for the positive
 %               examples and 'ko' for the negative examples.
 %
